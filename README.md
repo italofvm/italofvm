@@ -1,27 +1,19 @@
-### Olá! Eu sou Italo Vieira 👋
+# Italo Vieira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-vieira-54aab5129/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italo.lvs/)
+Sou desenvolvedor web, formado em ciência da computação,
+amo tecnologia ler e jogar alguma coisa. Sou caseiro e gosto de passar o tempo com minha familia.
 
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/italofernandesvm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-204B5e?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/italofvm/) [![E-mail](https://img.shields.io/badge/-Email-426b65?style=for-the-badge&logo=microsoft-outlook)](mailto:italofernandesvm@gmail.com)
+
+### Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-0a66c2?style=for-the-badge&logo=css3&logo=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+
+### Tecnologias que estou estudando:
+![Java](https://img.shields.io/badge/Java-204B5e?style=for-the-badge&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### GitHub Stats
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italofvm&show_icons=true&theme=tokyonight)
 
+### Linguagem mais Utilizada
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italofvm&langs_count=8)](https://github.com/italofvm/github-readme-stats)
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-## Tecnologias que estou estudando:
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-</div>
