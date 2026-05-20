@@ -62,9 +62,9 @@ I hold a Bachelor's degree in **Computer Science** and work as a Front-end Devel
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italofvm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=italofvm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italofvm&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=italofvm&theme=tokyonight"/>
 
 </div>
 
